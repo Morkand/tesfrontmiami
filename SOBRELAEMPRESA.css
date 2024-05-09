@@ -1,0 +1,748 @@
+.capa-1-icon1 {
+  position: absolute;
+  top: 188rem;
+  left: 80.813rem;
+  width: 17.563rem;
+  height: 36.125rem;
+  overflow: hidden;
+}
+.empresa-child,
+.mask-group-icon1 {
+  position: absolute;
+  top: 136.813rem;
+  left: 0;
+  width: 90rem;
+  height: 25.938rem;
+}
+.mask-group-icon1 {
+  object-fit: cover;
+}
+.empresa-child {
+  background-color: var(--color-darkslategray-200);
+}
+.empresa-item {
+  top: 0;
+  background-color: var(--color-mediumblue);
+  height: 3.063rem;
+}
+.empresa-inner,
+.empresa-item,
+.mask-group-icon2 {
+  position: absolute;
+  left: 0;
+  width: 90rem;
+}
+.empresa-inner {
+  top: 3.063rem;
+  background-color: var(--color-gainsboro-100);
+  height: 5.188rem;
+}
+.mask-group-icon2 {
+  top: 8.25rem;
+  height: 26.813rem;
+  object-fit: cover;
+}
+.capa-1-icon2 {
+  position: absolute;
+  top: 3.875rem;
+  left: 9.375rem;
+  width: 11.375rem;
+  height: 3.563rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.el-vuelo-cierra1 {
+  position: absolute;
+  top: 0.75rem;
+  left: 27.938rem;
+  color: var(--color-gainsboro-100);
+  text-align: center;
+}
+.sobre-la-empresa1,
+.tarifa-y-calculadora1 {
+  position: absolute;
+  top: 5rem;
+  font-size: var(--font-size-mid);
+  text-transform: uppercase;
+}
+.sobre-la-empresa1 {
+  left: 27.938rem;
+  color: var(--color-mediumblue);
+}
+.tarifa-y-calculadora1 {
+  left: 39.875rem;
+  cursor: pointer;
+}
+.envos-internacionales-de {
+  margin: 0;
+}
+.envos-internacionales-de-container {
+  position: absolute;
+  top: 44.563rem;
+  left: 9.375rem;
+  line-height: 1.75rem;
+}
+.garantizamos-la-entrega {
+  font-family: var(--font-heebo);
+}
+.miami {
+  color: var(--color-mediumblue);
+}
+.span {
+  color: var(--color-darkslategray-100);
+}
+.box {
+  color: var(--color-orangered-200);
+}
+.nuestra-misin-es-container {
+  position: absolute;
+  top: 68rem;
+  left: 45rem;
+  line-height: 1.75rem;
+}
+.pioneros-en-el-servicio {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.pioneros-en-el-container {
+  position: absolute;
+  top: 124.313rem;
+  left: 9.375rem;
+  line-height: 1.75rem;
+  text-align: center;
+  display: inline-block;
+  width: 21.688rem;
+}
+.con-ms-de {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.amplia-experiencia-y-container,
+.facilidad-y-accesibilidad-container {
+  position: absolute;
+  top: 124.313rem;
+  line-height: 1.75rem;
+  text-align: center;
+  display: inline-block;
+  width: 21.688rem;
+}
+.amplia-experiencia-y-container {
+  left: 34.125rem;
+  font-size: var(--font-size-5xl);
+}
+.facilidad-y-accesibilidad-container {
+  left: 58.875rem;
+}
+.nuestros-clientes-andan {
+  position: absolute;
+  top: 143.063rem;
+  left: calc(50% - 148px);
+  line-height: 1.75rem;
+  color: var(--color-gainsboro-100);
+  text-align: center;
+}
+.nuestra-web {
+  text-decoration: underline;
+  color: var(--color-mediumblue);
+}
+.registrate-en-nuestra-container {
+  position: absolute;
+  top: 42.563rem;
+  left: 49.188rem;
+  line-height: 1.625rem;
+}
+.te-brindaremos-una,
+.una-vez-realizada-container,
+.utiliz-la-direccin {
+  position: absolute;
+  top: 48.25rem;
+  left: 49.188rem;
+  line-height: 1.625rem;
+}
+.una-vez-realizada-container,
+.utiliz-la-direccin {
+  top: 58.813rem;
+}
+.utiliz-la-direccin {
+  top: 53.875rem;
+}
+.contacto1,
+.preguntas-frecuentes1,
+.tiendas1 {
+  position: absolute;
+  top: 5rem;
+  left: 54rem;
+  font-size: var(--font-size-mid);
+  text-transform: uppercase;
+}
+.contacto1,
+.preguntas-frecuentes1 {
+  left: 60.313rem;
+}
+.contacto1 {
+  left: 75.125rem;
+}
+.line-div {
+  position: absolute;
+  top: 6.688rem;
+  left: 27.875rem;
+  border-top: 2px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 10.188rem;
+  height: 0.125rem;
+}
+.empresa-child1,
+.empresa-child2 {
+  position: absolute;
+  top: 8.25rem;
+  left: 0;
+  background-color: var(--color-mediumblue);
+  width: 90rem;
+  height: 0.938rem;
+}
+.empresa-child2 {
+  top: 34.625rem;
+  background-color: var(--color-orangered-200);
+  height: 0.438rem;
+}
+.servicios {
+  position: absolute;
+  top: 41.563rem;
+  left: 9.375rem;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.es-rpido-fcil {
+  margin: 0;
+  text-transform: uppercase;
+}
+.comenz-a-disfrutar-container,
+.testimonios1 {
+  position: absolute;
+  font-size: var(--font-size-11xl);
+  text-align: center;
+}
+.comenz-a-disfrutar-container {
+  top: 207.875rem;
+  left: calc(50% - 560px);
+  line-height: 3.125rem;
+}
+.testimonios1 {
+  top: 140.063rem;
+  left: calc(50% - 106px);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-gainsboro-100);
+}
+.empresa-child3 {
+  position: absolute;
+  top: 62.063rem;
+  left: 0;
+  width: 41.875rem;
+  height: 0.313rem;
+  object-fit: contain;
+}
+.vector-icon {
+  position: absolute;
+  top: 0.125rem;
+  left: 0;
+  max-height: 100%;
+  width: 36.938rem;
+}
+.group-child5,
+.vector-group {
+  position: absolute;
+  height: 0.313rem;
+}
+.group-child5 {
+  top: 0;
+  left: 36.744rem;
+  background-color: var(--color-orangered-200);
+  width: 40.444rem;
+}
+.vector-group {
+  top: 162.938rem;
+  left: 12.813rem;
+  width: 77.188rem;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b4 {
+  position: absolute;
+  height: 47.37%;
+  width: 46%;
+  top: 26.32%;
+  left: 26%;
+  line-height: 1.75rem;
+  display: inline-block;
+}
+.modo-de-aislamiento1,
+.modo-de-aislamiento2,
+.modo-de-aislamiento3,
+.modo-de-aislamiento4 {
+  position: absolute;
+  top: 47.313rem;
+  left: 45rem;
+  width: 3.125rem;
+  height: 3.563rem;
+  overflow: hidden;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gainsboro-100);
+}
+.modo-de-aislamiento2,
+.modo-de-aislamiento3,
+.modo-de-aislamiento4 {
+  top: 53.063rem;
+}
+.modo-de-aislamiento3,
+.modo-de-aislamiento4 {
+  top: 58.813rem;
+}
+.modo-de-aislamiento4 {
+  top: 41.563rem;
+}
+.empresa-child4 {
+  position: absolute;
+  top: 93.313rem;
+  left: 0;
+  background-color: var(--color-mediumblue);
+  width: 90rem;
+  height: 20.75rem;
+}
+.layer-1-icon1 {
+  position: absolute;
+  top: 98.375rem;
+  left: 70.813rem;
+  width: 11.625rem;
+  height: 11.625rem;
+  overflow: hidden;
+  object-fit: contain;
+}
+.empresa-child5 {
+  position: absolute;
+  bottom: -0.062rem;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  width: 90rem;
+  height: 19.625rem;
+}
+.capa-1-icon3,
+.capa-1-icon4 {
+  position: absolute;
+  top: 233.188rem;
+  left: 68.813rem;
+  width: 0.813rem;
+  height: 0.813rem;
+  overflow: hidden;
+}
+.capa-1-icon4 {
+  top: 231.25rem;
+}
+.capa-1-icon5,
+.capa-1-icon6,
+.layer-1-icon2 {
+  position: absolute;
+  top: 237.125rem;
+  left: 31.25rem;
+  width: 0.875rem;
+  height: 0.875rem;
+  overflow: hidden;
+}
+.capa-1-icon6,
+.layer-1-icon2 {
+  top: 235.125rem;
+}
+.capa-1-icon6 {
+  top: 233.25rem;
+  width: 0.813rem;
+  height: 0.813rem;
+}
+.empresa-child6 {
+  position: absolute;
+  top: 147.375rem;
+  left: 12.813rem;
+  background-color: var(--color-white);
+  width: 30.688rem;
+  height: 10.688rem;
+}
+.empresa-child10,
+.empresa-child7,
+.empresa-child8,
+.empresa-child9 {
+  position: absolute;
+  top: 171.25rem;
+  left: 9.375rem;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 35.438rem;
+  height: 15.25rem;
+}
+.empresa-child10,
+.empresa-child8,
+.empresa-child9 {
+  top: 188.688rem;
+}
+.empresa-child10,
+.empresa-child9 {
+  top: 171.25rem;
+  left: 47.75rem;
+}
+.empresa-child10 {
+  top: 188.688rem;
+}
+.empresa-child11 {
+  position: absolute;
+  top: 147.375rem;
+  left: 46.938rem;
+  background-color: var(--color-white);
+  width: 30.688rem;
+  height: 10.688rem;
+}
+.fundada-en-uruguay-container {
+  position: absolute;
+  top: 98.25rem;
+  left: 9.375rem;
+  line-height: 1.75rem;
+  color: var(--color-gainsboro-100);
+  display: inline-block;
+  width: 61.25rem;
+  height: 13.875rem;
+}
+.lorem-ipsum-dolor-container1 {
+  position: absolute;
+  top: 151.063rem;
+  left: 15.688rem;
+  line-height: 1.75rem;
+  display: inline-block;
+  width: 24.938rem;
+  height: 5.313rem;
+}
+.celular {
+  font-family: var(--font-heebo);
+  color: var(--color-mediumblue);
+}
+.solano-garcia-2476-container {
+  position: absolute;
+  top: 174.875rem;
+  left: 12.563rem;
+  line-height: 1.75rem;
+  display: inline-block;
+  width: 32.875rem;
+  height: 10rem;
+}
+.telfono2 {
+  font-family: var(--font-heebo);
+  color: var(--color-orangered-200);
+}
+.gorlero-y-calle-container,
+.nw-68th-street-container,
+.telfono-096400201-celular-container {
+  position: absolute;
+  top: 193.063rem;
+  left: 12.563rem;
+  line-height: 1.75rem;
+  display: inline-block;
+  width: 25.125rem;
+  height: 8.313rem;
+}
+.gorlero-y-calle-container,
+.nw-68th-street-container {
+  top: 174.875rem;
+  left: 50.938rem;
+  width: 29.063rem;
+  height: 10rem;
+}
+.nw-68th-street-container {
+  top: 193.063rem;
+  height: 8.313rem;
+}
+.historia,
+.sucursales-en-el {
+  position: absolute;
+  left: 9.375rem;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.historia {
+  top: 95.25rem;
+  color: var(--color-gainsboro-100);
+}
+.sucursales-en-el {
+  top: 166.688rem;
+}
+.miami2,
+.montevideo,
+.nombre-y-apellido1,
+.paysand,
+.punta-del-este {
+  position: absolute;
+  top: 149.063rem;
+  left: 15.688rem;
+  font-size: var(--font-size-3xl);
+  line-height: 1.75rem;
+  display: inline-block;
+  width: 14.063rem;
+  height: 1.688rem;
+}
+.miami2,
+.montevideo,
+.paysand,
+.punta-del-este {
+  top: 172.875rem;
+  left: 12.563rem;
+}
+.miami2,
+.paysand,
+.punta-del-este {
+  top: 191.063rem;
+}
+.miami2,
+.punta-del-este {
+  top: 172.875rem;
+  left: 50.938rem;
+}
+.miami2 {
+  top: 191.063rem;
+}
+.lorem-ipsum-dolor-container2,
+.nombre-y-apellido2 {
+  position: absolute;
+  top: 151.063rem;
+  left: 49.813rem;
+  line-height: 1.75rem;
+  display: inline-block;
+  width: 24.938rem;
+  height: 5.313rem;
+}
+.nombre-y-apellido2 {
+  top: 149.063rem;
+  font-size: var(--font-size-3xl);
+  width: 14.063rem;
+  height: 1.688rem;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-orangered-200);
+  width: 11rem;
+  height: 2.5rem;
+}
+.registrate-ahora {
+  position: absolute;
+  top: 0.375rem;
+  left: calc(50% - 78px);
+  line-height: 1.75rem;
+  text-transform: uppercase;
+  font-weight: 800;
+  display: inline-block;
+  width: 9.813rem;
+  height: 1.688rem;
+}
+.rectangle-group {
+  position: absolute;
+  top: 216.938rem;
+  left: 39.5rem;
+  width: 11rem;
+  height: 2.5rem;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gainsboro-100);
+}
+.capa-1-icon7 {
+  position: absolute;
+  top: 230.25rem;
+  left: 9.375rem;
+  width: 16.563rem;
+  height: 5.313rem;
+  overflow: hidden;
+}
+.contactanos2 {
+  position: absolute;
+  top: 228.438rem;
+  left: 31.25rem;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-gainsboro-100);
+}
+.telfono-598-2-container1 {
+  top: 230.688rem;
+  left: 32.438rem;
+  font-size: var(--font-size-base);
+  line-height: 2rem;
+}
+.miami-box-miamiboxuy1,
+.seguinos1,
+.telfono-598-2-container1 {
+  position: absolute;
+  color: var(--color-gainsboro-100);
+}
+.seguinos1 {
+  top: 228.438rem;
+  left: 68.813rem;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.miami-box-miamiboxuy1 {
+  top: 230.688rem;
+  left: 69.938rem;
+  font-size: var(--font-size-base);
+  line-height: 2rem;
+}
+.capa-1-icon8 {
+  position: absolute;
+  top: 231.25rem;
+  left: 31.25rem;
+  width: 0.813rem;
+  height: 0.813rem;
+  overflow: hidden;
+}
+.icon-chevron-right1 {
+  height: 0.76%;
+  width: 1.43%;
+  top: 62.39%;
+  right: 10.31%;
+  bottom: 36.85%;
+  left: 88.26%;
+}
+.icon-chevron-right1,
+.icon-chevron-right2,
+.icon-magnifying-glass {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-chevron-right2 {
+  height: 0.76%;
+  width: 1.43%;
+  top: 62.39%;
+  right: 88.29%;
+  bottom: 36.85%;
+  left: 10.28%;
+  object-fit: contain;
+}
+.icon-magnifying-glass {
+  height: 0.5%;
+  width: 1.32%;
+  top: 2.06%;
+  right: 6.94%;
+  bottom: 97.43%;
+  left: 91.74%;
+}
+.banner-sobre-nosotros-1,
+.empresa-child12 {
+  position: absolute;
+  top: 9.188rem;
+  left: 0;
+  width: 90rem;
+  height: 25.438rem;
+}
+.empresa-child12 {
+  background-color: var(--color-gainsboro-200);
+}
+.banner-sobre-nosotros-1 {
+  object-fit: cover;
+}
+.modo-de-aislamiento-icon {
+  position: absolute;
+  top: 68rem;
+  left: 9.375rem;
+  width: 25.625rem;
+  height: 17rem;
+  overflow: hidden;
+}
+.modo-de-aislamiento-icon1 {
+  position: absolute;
+  top: 66.063rem;
+  left: 0;
+  width: 5.813rem;
+  height: 21.813rem;
+  overflow: hidden;
+}
+.modo-de-aislamiento-icon2 {
+  position: absolute;
+  top: 93.313rem;
+  right: 0;
+  width: 5.563rem;
+  height: 20.75rem;
+  overflow: hidden;
+}
+.layer-1-icon3,
+.layer-1-icon4,
+.layer-1-icon5 {
+  position: absolute;
+  top: 118.563rem;
+  left: 18rem;
+  width: 4.438rem;
+  height: 4.438rem;
+  overflow: hidden;
+}
+.layer-1-icon4,
+.layer-1-icon5 {
+  top: 117.813rem;
+  left: 42rem;
+  width: 5.938rem;
+  height: 5.938rem;
+}
+.layer-1-icon5 {
+  top: 118.375rem;
+  left: 67.25rem;
+  width: 5rem;
+  height: 5rem;
+}
+.empresa-child14,
+.empresa-child15,
+.empresa-child16,
+.empresa-child17 {
+  position: absolute;
+  top: 171.281rem;
+  left: 18.531rem;
+  border-top: 3px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 17.125rem;
+  height: 0.188rem;
+}
+.empresa-child15,
+.empresa-child16,
+.empresa-child17 {
+  top: 188.719rem;
+  border-top: 3px solid var(--color-orangered-200);
+}
+.empresa-child16,
+.empresa-child17 {
+  top: 171.281rem;
+  left: 56.906rem;
+}
+.empresa-child17 {
+  top: 188.719rem;
+  border-top: 3px solid var(--color-mediumblue);
+}
+.empresa {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 243.313rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-heebo);
+}
