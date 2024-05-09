@@ -1,0 +1,852 @@
+.box8-1-icon {
+  position: absolute;
+  top: 173.438rem;
+  left: 5.25rem;
+  width: 39.875rem;
+  height: 24.75rem;
+  object-fit: cover;
+}
+.capa-1-icon13 {
+  position: absolute;
+  top: 117.313rem;
+  left: calc(50% - 857px);
+  width: 31.438rem;
+  height: 33.25rem;
+  overflow: hidden;
+  opacity: 0.3;
+}
+.hombre-entrega-feliz-paquete-s-icon {
+  position: absolute;
+  top: 34rem;
+  left: 48.875rem;
+  width: 41.063rem;
+  height: 61.625rem;
+  object-fit: cover;
+}
+.calculadora-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumblue);
+  width: 90rem;
+  height: 3.063rem;
+}
+.calculadora-item {
+  position: absolute;
+  top: 3.063rem;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 90rem;
+  height: 5.188rem;
+}
+.mask-group-icon7 {
+  position: absolute;
+  top: 8.25rem;
+  left: 0;
+  width: 90rem;
+  height: 26.813rem;
+  object-fit: cover;
+}
+.capa-1-icon14 {
+  position: absolute;
+  top: 3.875rem;
+  left: 9.375rem;
+  width: 11.375rem;
+  height: 3.563rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.el-vuelo-cierra6 {
+  position: absolute;
+  top: 0.75rem;
+  left: 27.938rem;
+  color: var(--color-gainsboro-100);
+  text-align: center;
+}
+.sobre-la-empresa4 {
+  left: 27.938rem;
+  cursor: pointer;
+}
+.contacto4,
+.preguntas-frecuentes4,
+.sobre-la-empresa4,
+.tarifa-y-calculadora4,
+.tiendas4 {
+  position: absolute;
+  top: 5rem;
+  font-size: var(--font-size-mid);
+  text-transform: uppercase;
+}
+.tarifa-y-calculadora4 {
+  left: 39.875rem;
+  color: var(--color-mediumblue);
+}
+.contacto4,
+.preguntas-frecuentes4,
+.tiendas4 {
+  left: 54rem;
+}
+.contacto4,
+.preguntas-frecuentes4 {
+  left: 60.313rem;
+}
+.contacto4 {
+  left: 75.125rem;
+}
+.calculadora-inner {
+  position: absolute;
+  top: 6.688rem;
+  left: 39.75rem;
+  border-top: 2px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 12.5rem;
+  height: 0.125rem;
+}
+.calculadora-child1,
+.calculadora-child2 {
+  position: absolute;
+  top: 8.25rem;
+  left: 0;
+  background-color: var(--color-mediumblue);
+  width: 90rem;
+  height: 0.938rem;
+}
+.calculadora-child2 {
+  top: 34.625rem;
+  background-color: var(--color-orangered-200);
+  height: 0.438rem;
+}
+.calculadora-child3 {
+  position: absolute;
+  top: 84.563rem;
+  left: 0;
+  width: 41.875rem;
+  height: 0.313rem;
+  object-fit: contain;
+}
+.calculadora-child4 {
+  position: absolute;
+  top: 89rem;
+  left: 0;
+  background-color: var(--color-mediumblue);
+  width: 90rem;
+  height: 16.688rem;
+}
+.nos-comprometemos-a,
+.nuestro-objetivo-es {
+  font-family: var(--font-heebo);
+}
+.blank-line3,
+.nos-comprometemos-a-brindarte {
+  margin: 0;
+}
+.nos-comprometemos-a-container {
+  position: absolute;
+  top: 94.25rem;
+  left: 9.375rem;
+  line-height: 1.75rem;
+  color: var(--color-gainsboro-100);
+  display: inline-block;
+  width: 57.875rem;
+  height: 8.938rem;
+}
+.no-dudes-en5 {
+  color: var(--color-darkslategray-100);
+}
+.si-tu-producto-container {
+  position: absolute;
+  top: 145.063rem;
+  left: 17.875rem;
+  line-height: 1.75rem;
+  display: inline-block;
+  width: 54.25rem;
+  height: 1.813rem;
+  color: var(--color-orangered-200);
+}
+.precios {
+  position: absolute;
+  top: 91.5rem;
+  left: 9.375rem;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-gainsboro-100);
+}
+.banner-sobre-nosotros-11,
+.calculadora-child5 {
+  position: absolute;
+  top: 9.188rem;
+  left: 0;
+  width: 90rem;
+  height: 25.438rem;
+}
+.calculadora-child5 {
+  background-color: var(--color-gainsboro-200);
+}
+.banner-sobre-nosotros-11 {
+  object-fit: cover;
+}
+.calculadora-child6,
+.group-child7 {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-orangered-200);
+}
+.calculadora-child6 {
+  top: 34.625rem;
+  width: 90rem;
+  height: 0.438rem;
+}
+.group-child7 {
+  top: 0;
+  border-radius: var(--br-9xs);
+  width: 11rem;
+  height: 2.5rem;
+}
+.calcular5 {
+  position: absolute;
+  top: 0.375rem;
+  left: calc(50% - 79px);
+  line-height: 1.75rem;
+  text-transform: uppercase;
+  font-weight: 800;
+  display: inline-block;
+  width: 9.813rem;
+  height: 1.688rem;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 28.75rem;
+  left: 16.313rem;
+  width: 11rem;
+  height: 2.5rem;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gainsboro-100);
+}
+.costo-en-usd5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 1.75rem;
+}
+.group-child8 {
+  position: absolute;
+  top: 2.313rem;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 43.563rem;
+  height: 2.875rem;
+}
+.peso-en-kg5 {
+  position: absolute;
+  top: 6.5rem;
+  left: 0;
+  line-height: 1.75rem;
+}
+.group-child9 {
+  position: absolute;
+  top: 8.813rem;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 43.563rem;
+  height: 2.875rem;
+}
+.tipo-de-encomienda5 {
+  position: absolute;
+  top: 13rem;
+  left: 0;
+  line-height: 1.75rem;
+}
+.group-child10 {
+  position: absolute;
+  top: 15.313rem;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 43.563rem;
+  height: 2.875rem;
+}
+.con-franquicia5,
+.destino5 {
+  position: absolute;
+  line-height: 1.75rem;
+}
+.destino5 {
+  top: 19.5rem;
+  left: 0;
+}
+.con-franquicia5 {
+  top: 26rem;
+  left: 1.438rem;
+  font-weight: 500;
+}
+.group-child11,
+.group-child12 {
+  position: absolute;
+  top: 21.813rem;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 43.563rem;
+  height: 2.875rem;
+}
+.group-child12 {
+  top: 26.313rem;
+  width: 0.938rem;
+  height: 0.938rem;
+}
+.precio5 {
+  position: absolute;
+  top: 3rem;
+  left: 1.438rem;
+  line-height: 1.75rem;
+}
+.peso5,
+.seleccione-el-destino5,
+.seleccione-tipo-de5 {
+  position: absolute;
+  top: 9.375rem;
+  left: 1.438rem;
+  line-height: 1.75rem;
+}
+.seleccione-el-destino5,
+.seleccione-tipo-de5 {
+  top: 15.875rem;
+}
+.seleccione-el-destino5 {
+  top: 22.375rem;
+}
+.group-container {
+  position: absolute;
+  top: 49.188rem;
+  left: 9.375rem;
+  width: 43.563rem;
+  height: 31.25rem;
+}
+.calcul-cunto-te {
+  color: var(--color-darkslategray-100);
+}
+.calcul-cunto-te-costar-envi,
+.tus-productos-favoritos {
+  margin: 0;
+}
+.calcul-cunto-te-container {
+  position: absolute;
+  top: 40.875rem;
+  left: 9.375rem;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-mediumblue);
+}
+.valores-de-envos {
+  margin: 0;
+}
+.estados-unidos-a {
+  margin: 0;
+  color: var(--color-orangered-200);
+}
+.valores-de-envos-container {
+  position: absolute;
+  top: 109.938rem;
+  left: 9.375rem;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.calculadora-child7,
+.calculadora-child8 {
+  position: absolute;
+  top: 121.563rem;
+  left: 9.375rem;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 20.25rem;
+  height: 18.125rem;
+}
+.calculadora-child8 {
+  top: 119.5rem;
+  left: 32.875rem;
+  background-color: var(--color-mediumblue);
+  width: 24.25rem;
+  height: 21.75rem;
+}
+.calculadora-child10,
+.calculadora-child9 {
+  position: absolute;
+  top: 121.563rem;
+  left: 14.125rem;
+  border-top: 4px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 10.75rem;
+  height: 0.25rem;
+}
+.calculadora-child10 {
+  top: 119.5rem;
+  left: 38.625rem;
+  border-top: 4px solid var(--color-orangered-200);
+  width: 12.75rem;
+}
+.gramos,
+.o-fraccin,
+.usd-259-cada {
+  margin: 0;
+}
+.usd-259-cada-container {
+  position: absolute;
+  top: 129.625rem;
+  left: calc(50% - 529px);
+  font-size: var(--font-size-15xl);
+  line-height: 118%;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-align: center;
+}
+.de,
+.descuento {
+  margin: 0;
+}
+.de-descuento {
+  position: absolute;
+  top: 129.563rem;
+  left: calc(50% - 143px);
+  font-size: 3.125rem;
+  line-height: 134.5%;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-gainsboro-100);
+  text-align: center;
+}
+.calculadora-child11,
+.calculadora-child12 {
+  position: absolute;
+  top: 125.813rem;
+  left: 9.25rem;
+  border-top: 4px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 20.5rem;
+  height: 0.25rem;
+}
+.calculadora-child12 {
+  top: 125.75rem;
+  left: 32.75rem;
+  border-top: 4px solid var(--color-gainsboro-100);
+  width: 24.5rem;
+}
+.calculadora-child13,
+.calculadora-child14 {
+  position: absolute;
+  top: 124.375rem;
+  left: 10.875rem;
+  background-color: var(--color-mediumblue);
+  width: 17.313rem;
+  height: 3.063rem;
+}
+.calculadora-child14 {
+  top: 124.313rem;
+  left: 36.125rem;
+  background-color: var(--color-gainsboro-100);
+  width: 17.813rem;
+}
+.desde-01kg-hasta-container {
+  position: absolute;
+  top: 125rem;
+  left: 11.625rem;
+  font-size: var(--font-size-lg);
+  line-height: 1.75rem;
+  text-transform: uppercase;
+  color: var(--color-gainsboro-100);
+  text-align: center;
+}
+.calculadora-child15,
+.calculadora-child16 {
+  position: absolute;
+  top: 121.563rem;
+  box-sizing: border-box;
+}
+.calculadora-child15 {
+  left: 60.375rem;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-darkslategray-100);
+  width: 20.25rem;
+  height: 18.125rem;
+}
+.calculadora-child16 {
+  left: 65.125rem;
+  border-top: 4px solid var(--color-mediumblue);
+  width: 10.75rem;
+  height: 0.25rem;
+}
+.de1,
+.descuento1 {
+  margin: 0;
+}
+.de-descuento1 {
+  position: absolute;
+  top: 130.875rem;
+  left: calc(50% + 311px);
+  font-size: var(--font-size-15xl);
+  line-height: 118%;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-align: center;
+}
+.calculadora-child17 {
+  position: absolute;
+  top: 125.813rem;
+  left: 60.25rem;
+  border-top: 4px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 20.5rem;
+  height: 0.25rem;
+}
+.calculadora-child18 {
+  position: absolute;
+  top: 124.375rem;
+  left: 61.688rem;
+  background-color: var(--color-mediumblue);
+  width: 17.688rem;
+  height: 3.063rem;
+}
+.desde-10-kg-container,
+.desde-20-kg-container {
+  position: absolute;
+  font-size: var(--font-size-lg);
+  line-height: 1.75rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+.desde-10-kg-container {
+  top: 125rem;
+  left: 62.313rem;
+  color: var(--color-gainsboro-100);
+}
+.desde-20-kg-container {
+  top: 124.938rem;
+  left: 36.813rem;
+}
+.icon-magnifying-glass2 {
+  position: absolute;
+  height: 0.75%;
+  width: 1.32%;
+  top: 3.14%;
+  right: 6.94%;
+  bottom: 96.11%;
+  left: 91.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.de-mantenimiento,
+.no-cobramos-ningn,
+.servicio-es-completamente {
+  margin: 0;
+}
+.no-cobramos-ningn-container {
+  position: absolute;
+  top: 149.875rem;
+  left: 11.5rem;
+  line-height: 1.625rem;
+}
+.para-envos-que,
+.una-tarifa-mnima {
+  margin: 0;
+}
+.para-envos-que-container,
+.para-paquetes-se {
+  position: absolute;
+  top: 157.375rem;
+  left: 11.5rem;
+  line-height: 1.625rem;
+}
+.para-paquetes-se {
+  top: 169.125rem;
+}
+.de-solo-990,
+.los-libros-cds {
+  margin: 0;
+}
+.los-libros-cds-container {
+  position: absolute;
+  top: 149.875rem;
+  left: 48.188rem;
+  line-height: 1.625rem;
+}
+.de-usd-5,
+.los-envos-al {
+  margin: 0;
+}
+.los-envos-al-container {
+  position: absolute;
+  top: 157.375rem;
+  left: 48.188rem;
+  line-height: 1.625rem;
+}
+.de-manejo,
+.los-envos-de {
+  margin: 0;
+}
+.los-envos-de-container {
+  position: absolute;
+  top: 163.25rem;
+  left: 48.188rem;
+  line-height: 1.625rem;
+}
+.manejo-es-de,
+.para-libros-cds {
+  margin: 0;
+}
+.para-libros-cds-container {
+  position: absolute;
+  top: 163.25rem;
+  left: 11.5rem;
+  line-height: 1.625rem;
+}
+.modo-de-aislamiento-icon3 {
+  position: absolute;
+  top: 149.75rem;
+  left: 9.438rem;
+  width: 1.375rem;
+  height: 1.563rem;
+  overflow: hidden;
+}
+.modo-de-aislamiento-icon4,
+.modo-de-aislamiento-icon5,
+.modo-de-aislamiento-icon6 {
+  position: absolute;
+  top: 149.75rem;
+  left: 46.25rem;
+  width: 1.375rem;
+  height: 1.563rem;
+  overflow: hidden;
+}
+.modo-de-aislamiento-icon5,
+.modo-de-aislamiento-icon6 {
+  top: 157.375rem;
+}
+.modo-de-aislamiento-icon6 {
+  top: 163.25rem;
+}
+.modo-de-aislamiento-icon7,
+.modo-de-aislamiento-icon8,
+.modo-de-aislamiento-icon9 {
+  position: absolute;
+  top: 157.375rem;
+  left: 9.438rem;
+  width: 1.375rem;
+  height: 1.563rem;
+  overflow: hidden;
+}
+.modo-de-aislamiento-icon8,
+.modo-de-aislamiento-icon9 {
+  top: 163.25rem;
+}
+.modo-de-aislamiento-icon9 {
+  top: 169.125rem;
+}
+.informacin {
+  position: absolute;
+  top: 175.5rem;
+  left: 44.438rem;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.blank-line4,
+.de-usd-10,
+.los-envos-al1,
+.si-su-envo {
+  margin: 0;
+}
+.paquetes {
+  font-family: var(--font-heebo);
+  color: var(--color-mediumblue);
+}
+.paquetes-aplica-un-costo-de-u {
+  margin: 0;
+}
+.libroscdsdvdscorresponden1 {
+  font-family: var(--font-heebo);
+  color: var(--color-orangered-200);
+}
+.libroscdsdvdscorresponden {
+  margin: 0;
+}
+.no-tiene-costo {
+  font-family: var(--font-heebo);
+  color: var(--color-darkslategray-100);
+}
+.revistas-catlogos-y-sobres {
+  margin: 0;
+  color: var(--color-mediumblue);
+}
+.si-su-envo-container {
+  position: absolute;
+  top: 179.313rem;
+  left: 44.5rem;
+  line-height: 1.625rem;
+  display: inline-block;
+  width: 39.688rem;
+  height: 13.188rem;
+}
+.calculadora-child19 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  width: 90rem;
+  height: 19.625rem;
+}
+.capa-1-icon15,
+.capa-1-icon16 {
+  position: absolute;
+  top: 210.625rem;
+  left: 71.438rem;
+  width: 0.813rem;
+  height: 0.813rem;
+  overflow: hidden;
+}
+.capa-1-icon16 {
+  top: 208.688rem;
+}
+.capa-1-icon17,
+.capa-1-icon18,
+.capa-1-icon19,
+.layer-1-icon9 {
+  position: absolute;
+  top: 214.563rem;
+  left: 33.875rem;
+  width: 0.875rem;
+  height: 0.875rem;
+  overflow: hidden;
+}
+.capa-1-icon18,
+.capa-1-icon19,
+.layer-1-icon9 {
+  top: 212.563rem;
+}
+.capa-1-icon18,
+.capa-1-icon19 {
+  top: 210.688rem;
+  width: 0.813rem;
+  height: 0.813rem;
+}
+.capa-1-icon19 {
+  top: 207.688rem;
+  left: 12rem;
+  width: 16.563rem;
+  height: 5.313rem;
+}
+.contactanos12 {
+  position: absolute;
+  top: 205.875rem;
+  left: 33.875rem;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-gainsboro-100);
+}
+.telfono11 {
+  font-family: var(--font-heebo);
+}
+.telfono-598-2-716-2222-097 {
+  margin: 0;
+}
+.email11 {
+  font-family: var(--font-heebo);
+}
+.email-infomiami-boxcom9 {
+  margin: 0;
+}
+.direccin7 {
+  font-family: var(--font-heebo);
+}
+.direccin-solano-garcia-24767 {
+  margin: 0;
+}
+.horario7 {
+  font-family: var(--font-heebo);
+}
+.horario-lunes-a-viernes-0907 {
+  margin: 0;
+}
+.seguinos8,
+.telfono-598-2-container7 {
+  position: absolute;
+  color: var(--color-gainsboro-100);
+}
+.telfono-598-2-container7 {
+  top: 208.125rem;
+  left: 35.063rem;
+  font-size: var(--font-size-base);
+  line-height: 2rem;
+}
+.seguinos8 {
+  top: 205.875rem;
+  left: 71.438rem;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.miami-box9,
+.miamiboxuy8 {
+  margin: 0;
+}
+.miami-box-miamiboxuy8 {
+  position: absolute;
+  top: 208.125rem;
+  left: 72.563rem;
+  font-size: var(--font-size-base);
+  line-height: 2rem;
+  color: var(--color-gainsboro-100);
+}
+.capa-1-icon20 {
+  position: absolute;
+  top: 208.688rem;
+  left: 33.875rem;
+  width: 0.813rem;
+  height: 0.813rem;
+  overflow: hidden;
+}
+.capa-1-icon21,
+.vector-icon5 {
+  position: absolute;
+  height: 5.26%;
+  width: 12.92%;
+  top: 41.52%;
+  right: 10.35%;
+  bottom: 53.21%;
+  left: 76.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon5 {
+  height: 5.92%;
+  width: 12.59%;
+  top: 41.13%;
+  right: -6.34%;
+  bottom: 52.95%;
+  left: 93.75%;
+}
+.calculadora {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 220.813rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-heebo);
+}
